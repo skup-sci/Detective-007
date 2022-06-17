@@ -9,4 +9,4 @@ urllib3==1.26.9
 yarg==0.1.9
 flask
 numpy
-panda
+pandas
