@@ -10,6 +10,6 @@ yarg==0.1.9
 flask
 numpy
 pandas
-nltk==3.7
+nltk
 tensorflow-cpu
 sklearn
