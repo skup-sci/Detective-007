@@ -11,5 +11,5 @@ flask
 numpy
 pandas
 nltk==3.7
-tensorflow==2.0.0
+tensorflow==1.7.0
 sklearn
